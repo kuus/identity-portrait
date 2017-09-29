@@ -1,0 +1,9 @@
+{
+  "appName": "Portrait",
+  "nav": [
+    {
+      "name": "About",
+      "url": "/about"
+    }
+  ]
+}
