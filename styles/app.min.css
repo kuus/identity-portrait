@@ -1,7 +1,7 @@
 /*!
- * Portrait v0.0.1 (http://identity-portrait.com)
- * Roberto Amoroso&#39;s website
+ * IP: Identity Portrait v0.0.1 (http://identity-portrait.com)
+ * Roberto Amoroso&#39;s art project
  
  * by kuus <kunderikuus@gmail.com> (http://kunderikuus.net/)
  * Copyright (C) kunderi kuus, Inc - All Rights Reserved 2017 (Last change on: 29-8-2017)
- */body{overflow-x:hidden;font-family:Monospace;background-color:#f0f0f0;margin:0;overflow:hidden}
+ */body{overflow-x:hidden;font-family:Share Tech Mono,monospace;background-color:#f0f0f0;margin:0;overflow:hidden}.scene{z-index:1;position:absolute;top:0;left:0;bottom:0;right:0}.asteroid{z-index:0;position:fixed;opacity:.5}#asteroid1{left:-200px;bottom:-100px;width:600px}#asteroid2{right:-100px;bottom:-100px}#asteroid3{left:40%;bottom:-200px}.modal{z-index:3;position:fixed;top:30px;bottom:30px;left:30px;right:30px;background:#fff;box-shadow:5px 5px 10px rgba(0,0,0,.1);-webkit-transform:scale(0);transform:scale(0);-webkit-transition:-webkit-transform .18s ease-in-out;transition:-webkit-transform .18s ease-in-out;transition:transform .18s ease-in-out;transition:transform .18s ease-in-out,-webkit-transform .18s ease-in-out}.modal__img{position:absolute;top:0;left:0;right:0;bottom:0;background-repeat:no-repeat;background-size:contain;background-position:50%}
